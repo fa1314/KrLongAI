@@ -107,10 +107,8 @@ project-root/
 1. **下载项目源码**
    详见：`代码地址.txt`
 
-2. **安装运行环境**
-   按照：`使用前必装.txt` 进行依赖安装
 
-3. **启动本地客户端**
+2. **启动本地客户端**
 
 ---
 
@@ -138,7 +136,7 @@ project-root/
 ## 📖 联系交流-799元购买成品软件、9.9元试用、白票勿扰
 
 > 可联系交流wx：
-![介绍图](https://github.com/fa1314/ip-human-agent/blob/main/Contact_wx8.png)
+![介绍图](https://github.com/fa1314/ip-human-agent/blob/main/Contact_wx.png)
 
 ---
 ## ⚠️ 已知限制
